@@ -30,7 +30,7 @@ header{
 }
 
 #get-pokemon:hover{
-    m
+    cursor: pointer;
 }
 
 #informatio-pokemon{
