@@ -1,0 +1,58 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    font-family: 'Varela Round', sans-serif;
+}
+
+header{
+    width: 70vw;
+    height: 40vh;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#title{
+    font-size: 60px;
+}
+
+#get-pokemon{
+    width: 15vw;
+    height: 6vh;
+    margin-top: 10vh;  
+    border: none;  
+    border-radius: 50px;
+    font-size: larger;
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+}
+
+#informatio-pokemon{
+    width: 70vw;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+h2{
+    margin-top: 4vh;
+}
+
+#picture-pokemon{
+    margin-top: 30px;
+}
+
+#infomation-list{
+    width: 35vw;
+    margin-top: 6vh;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    font-size: 20px;
+}
+
