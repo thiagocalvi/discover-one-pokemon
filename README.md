@@ -1,7 +1,7 @@
 # Discover One Pokemon 
 
 ## Objetivo
-<p>Desenvolver as capacidades de programação com JavaScript fortalecendo conceitos básicos de requi</p>
+<p>Desenvolver as capacidades de programação com JavaScript fortalecendo conceitos básicos de requisição a API com <code>fetch()</code> e manipulação do DOM</p>
 
 ### **Mudanças e updates a serem feitos** 
 
