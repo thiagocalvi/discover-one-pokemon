@@ -5,5 +5,6 @@
 
 ### **Mudanças e updates a serem feitos** 
 
-* Refatorar o código para trabalhar com modulos em JavaScript
-* Fazer uma verificação para não retornar pokemons repitidos 
+- [x] Refatorar o código para trabalhar com modulos em JavaScript
+- [x] Fazer uma verificação para não retornar pokemons repitidos 
+

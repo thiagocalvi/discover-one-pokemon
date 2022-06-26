@@ -2,6 +2,7 @@
     box-sizing: border-box;
     margin: 0;
     font-family: 'Varela Round', sans-serif;
+    padding: 0;
 }
 
 header{
@@ -27,9 +28,11 @@ header{
     font-size: larger;
     background: rgb(131,58,180);
     background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    transition: all 0.5s;
 }
 
 #get-pokemon:hover{
+    transform: scale(1.1);
     cursor: pointer;
 }
 
@@ -48,7 +51,14 @@ h2{
 }
 
 #picture-pokemon{
-    margin-top: 30px;
+    height: 96px;
+    margin-top: 50px;
+    transition: all 0.5s;
+}
+
+#picture-pokemon:hover{
+    transform: scale(2);
+    cursor: pointer;
 }
 
 #infomation-list{
